@@ -4,7 +4,7 @@ That's just simple game that simulates work of slot machine.
 It was written in pure C using SDL2 library.
 
 To compile it you should install SDL2, SDL_Image and SDL_TTF
-on your sistem.
+on your system.
 
 Also you need resources.
 
