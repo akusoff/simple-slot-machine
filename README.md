@@ -14,4 +14,7 @@ https://drive.google.com/file/d/1QKRtsnNMi0mxinXjxS0QOyDlovbPDlnw/view?usp=shari
 Unpack it and put its content in res folder at the same
 place executable file is.
 
-All graphical contetn was created by [Cougarmint](https://opengameart.org/users/cougarmint).
+All graphical content was created by [Cougarmint](https://opengameart.org/users/cougarmint).
+
+## Preview
+![alt text](https://i.imgur.com/DP5pJhX.png "That's how game looks!")
